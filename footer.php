@@ -40,7 +40,7 @@ Liberia <br>
 <div id="developer">
 <footer class="container">
 <p> &copy; 2020 - <?php echo Date('Y')?> Design by: <a href="http://www.touchtechnologygroup.com">Fayia Technology Service</a></p>
-<!--  & <a href="http://www.nixmedialiberia.ml">NixMedia Tech Service</a> -->
+<!--  & <a href="http://lightgraphictechnologyservices"></a> -->
 </footer>
 </div>
 <script type="js/jquery.mobile-1.4.5.js"></script>
