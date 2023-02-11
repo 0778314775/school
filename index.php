@@ -22,7 +22,7 @@
 <span class=icon-bar></span>
 <span class=icon-bar></span>
 </button>
-<a class=navbar-brand href=index.php><p id=sit_title><strong>Girl  Edauctoin Liberia</strong></p><img class="wow animated fadeInLeft" src=img/hlogo.png></a>
+<a class=navbar-brand href=index.php><p id=sit_title><strong>Computer School</strong></p><img class="wow animated fadeInLeft" src=img/hlogo.png></a>
 </div>
 <div class="collapse navbar-collapse" id style>
 <ul class="nav navbar-nav">
